@@ -2,6 +2,9 @@
 
 Welcome to StatDash, the Data Visualization Dashboard 
 
+## Live Demo
+https://statdashb-qvhg7egmc-shubhay-gautams-projects.vercel.app/dashboard
+
 ## About
 This dashboard leverages the power of the MERN (MongoDB, Express, React, Node.js) stack to provide a seamless and interactive experience for visualizing and analyzing data from our website. The visualizations are powered by the Chart.js library, enhancing our ability to understand trends and patterns within the data.
 
