@@ -15,3 +15,15 @@ This dashboard leverages the power of the MERN (MongoDB, Express, React, Node.js
 - **Node.js:** The runtime environment for server-side scripting.
 - **Chart.js:** A powerful library for creating visually appealing and interactive charts.
 
+## Installation
+1. Clone this repository: `git clone https://github.com/shubhaygautam/StatDash.git`
+2. Navigate to the project directory: `cd StatDash`
+3. Install dependencies:
+   - Backend: `cd server && npm install`
+   - Frontend: `cd client && npm install`
+4. Run the application:
+   - Backend: `cd server && npm start`
+   - Frontend: `cd client && npm start`
+
+Open your browser and access the dashboard at [http://localhost:3000](http://localhost:3000).
+
