@@ -1,5 +1,4 @@
 # Data Visualization Dashboard
-
 Welcome to StatDash, the Data Visualization Dashboard 
 
 ## Live Demo
